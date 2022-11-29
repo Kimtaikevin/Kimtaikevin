@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on software and app development
-- 📫 How to reach me tezkim414@gmail.com
+- 📫 How to reach me tezkim414@gmail.com Whatsapp 0710741609
 
 <!---
 Kimtaikevin/Kimtaikevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
