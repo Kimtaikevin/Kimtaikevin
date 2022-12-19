@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimtaikevin
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software and app development
+- 💞️ I’m looking to collaborate on software, web development and machine learning.
 - 📫 How to reach me tezkim414@gmail.com Whatsapp 0710741609
 
 <!---
